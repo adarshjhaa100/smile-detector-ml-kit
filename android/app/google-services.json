@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "999230936822",
+    "firebase_url": "https://imager-5eb09.firebaseio.com",
+    "project_id": "imager-5eb09",
+    "storage_bucket": "imager-5eb09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999230936822:android:7c5c181517750ccd",
+        "android_client_info": {
+          "package_name": "com.example.smiledetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999230936822-es4a93t4u19n0ae9iecoifs39bom2sds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAbn9mu0y-6BMz7WwKpuEWKkVQ3-QhvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
